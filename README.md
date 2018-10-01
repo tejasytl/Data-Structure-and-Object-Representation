@@ -12,3 +12,7 @@ Assignment2:
 a) Build up a random binary tree, having a minimum of 30 nodes.
 b) Write two NON-RECURSIVE functions for traversing the built binary tree in pre-order and post-order, respectively.
 c) Show the visits (print the data field only) for both the functions.
+
+Assignment3:
+Tic Tac Toe Program
+Write a program for tic tac toe using 2 step and 4 step look ahead , given any board pattern.
